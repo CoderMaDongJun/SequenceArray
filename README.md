@@ -1,2 +1,2 @@
 # SequenceArray
-数组内排序
+数组内排序.
